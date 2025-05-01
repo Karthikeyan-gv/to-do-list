@@ -84,7 +84,7 @@ function Todolist() {
     return (
         <div className="todo-container">
             <h1>TO DO LIST</h1>
-            <p className="credits">BY KARTHIKEYAN</p>
+            <p className="credits"><i>BY KARTHIKEYAN</i></p>
             <div className="controls">
                 <input
                     type="text"
